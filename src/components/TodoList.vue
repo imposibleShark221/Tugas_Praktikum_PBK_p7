@@ -31,7 +31,7 @@
 </template>
 
 <script setup>
-import { useTodoStore } from '../stores/todoStore'
+import { useTodoStore } from '../stores/TodoStore'
 const store = useTodoStore()
 </script>
 
